@@ -1,9 +1,9 @@
 import sys 
 
 print()
-print("Welcome to my New York City quiz!")
+print("Welcome to my New York City quiz!\n")
 
-playing = input ("Do you want to play? yes/no ")
+playing = input ("Do you want to play? yes/no\n\n ")
 
 if playing.lower() != "yes":
     print("Have a good day goodbye ") 
